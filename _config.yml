@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Bertrand Charpentier
 
 # Your name to show in the footer
 author: Some Person
@@ -14,11 +14,14 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research: "aboutme"
+  Education:
+    - Stanford: "https://beautifuljekyll.com"
+    - TUM: "https://beautifuljekyll.com"
+    - Telecom Paris: "https://beautifuljekyll.com"
+    - KTH: "https://beautifuljekyll.com"
+    - Ensimag: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -39,16 +42,16 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "bertrand.henri.charpentier@gmail.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+  github: sharpenb
+  twitter: Bertrand_Charp
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: bertrand-charpentier-76995ab6
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,7 +78,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
