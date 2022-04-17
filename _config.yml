@@ -9,25 +9,27 @@
 title: Bertrand Charpentier
 
 # Your name to show in the footer
-author: Some Person
+author: Bertrand Charpentier
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research: "aboutme"
+  Research: 
+    - Uncertainty Estimation: "aboutme"
   Education:
     - Stanford: "https://beautifuljekyll.com"
     - TUM: "https://beautifuljekyll.com"
     - Telecom Paris: "https://beautifuljekyll.com"
     - KTH: "https://beautifuljekyll.com"
     - Ensimag: "https://www.markdowntutorial.com/"
+  Blog:
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/Bertrand_Charpentier.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -49,7 +51,7 @@ social-network-links:
   twitter: Bertrand_Charp
 #  patreon: DeanAttali
 #  youtube: c/daattali
-#  medium: yourname
+  medium: bertrand-charpentier
 #  reddit: yourname
   linkedin: bertrand-charpentier-76995ab6
 #  xing: yourname
@@ -65,7 +67,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: 0rqI-ycAAAAJ&hl
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 
@@ -84,7 +86,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "sharpenb.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -219,7 +221,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
