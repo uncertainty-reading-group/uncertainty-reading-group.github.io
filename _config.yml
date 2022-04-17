@@ -15,7 +15,8 @@ author: Bertrand Charpentier
 
 navbar-links:
   Research: 
-    - Uncertainty Estimation: "aboutme"
+    - Publications: "aboutme"
+    - Talks: "aboutme"
   Education:
     - Stanford: "https://beautifuljekyll.com"
     - TUM: "https://beautifuljekyll.com"
