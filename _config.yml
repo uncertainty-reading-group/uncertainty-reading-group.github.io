@@ -30,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/Bertrand_Charpentier.jpg"
+avatar: "/assets/img/Bertrand_Charpentier_cropped.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -68,7 +68,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: 0rqI-ycAAAAJ&hl
+  google-scholar: citations?user=0rqI-ycAAAAJ&hl
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 
