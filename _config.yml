@@ -15,8 +15,8 @@ author: Bertrand Charpentier
 
 navbar-links:
   Research: 
-    - Papers: "/_pages/papers.md"
-    - Talks: "/_pages/talks.md"
+    - Papers: "/_pages/papers"
+    - Talks: "/_pages/talks"
   Experiences:
     - CV: "/assets/pdf/CVE_Bertrand_Research.pdf"
     - Stanford: "https://web.stanford.edu/group/sisl/cgi-bin/wordpress/"
