@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Differentiable DAG Sampling
+subtitle: 
+gh-repo: sharpenb/Differentiable-DAG-Sampling
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Structure Learning, Causal Inference, ICLR]
 comments: true
 ---
 
