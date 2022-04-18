@@ -8,6 +8,6 @@ I pursue my Ph.D. in the [Data Analytics and Machine Learning (DAML)](https://ww
 
 My research focuses on **efficient** machine learning methods for **uncertainty estimation** for different **input** and **output types**. In particular, I am interested in defining **desiderata**, **models** and **evaluation** methods for practical uncertainty estimation in real world applications.
 
-Other research interests include Structure Learning, Causal Inference and Efficient Machine Learning models.
+Other research interests include structure Learning, causal Inference and efficient machine learning models.
 
 If you are interested in discussing with me, contact me per email or on twitter :)
