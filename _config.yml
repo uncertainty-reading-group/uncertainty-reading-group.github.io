@@ -15,7 +15,7 @@ author: Bertrand Charpentier
 
 navbar-links:
   Research: 
-    - Papers: "/_pages/pages.md"
+    - Papers: "/_pages/papers.md"
     - Talks: "/_pages/talks.md"
   Experiences:
     - CV: "/assets/pdf/CVE_Bertrand_Research.pdf"
