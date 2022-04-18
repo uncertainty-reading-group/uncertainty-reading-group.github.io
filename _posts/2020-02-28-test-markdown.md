@@ -2,9 +2,9 @@
 layout: post
 title: Differentiable DAG Sampling
 subtitle: 
-gh-repo: sharpenb/Differentiable-DAG-Sampling
+gh-repo: sharpenb/Differentiable-DAG-Sampling - ICLR 2022
 gh-badge: [star, fork, follow]
-tags: [Structure Learning, Causal Inference, ICLR]
+tags: [Structure Learning, Causal Inference, Efficient ML]
 comments: true
 ---
 
