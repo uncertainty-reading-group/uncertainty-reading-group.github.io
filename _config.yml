@@ -15,15 +15,17 @@ author: Bertrand Charpentier
 
 navbar-links:
   Research: 
-    - Publications: "aboutme"
+    - Papers: "aboutme"
     - Talks: "aboutme"
-  Education:
-    - Stanford: "https://beautifuljekyll.com"
-    - TUM: "https://beautifuljekyll.com"
-    - Telecom Paris: "https://beautifuljekyll.com"
-    - KTH: "https://beautifuljekyll.com"
-    - Ensimag: "https://www.markdowntutorial.com/"
-  Blog:
+  Experiences:
+    - CV: "/assets/pdf/CVE_Bertrand_Research.pdf"
+    - Stanford: "https://web.stanford.edu/group/sisl/cgi-bin/wordpress/"
+    - TUM - DAML: "https://www.in.tum.de/en/daml/home/"
+    - Télécom ParisTech: "https://www.telecom-paris.fr/en/home"
+    - KTH: "https://www.kth.se/en"
+    - Morgan Stanley: "https://www.morganstanley.com/"
+    - Ensimag: "https://ensimag.grenoble-inp.fr/en"
+  Blog: "https://medium.com/@bertrand-charpentier"
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -108,17 +110,17 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#000000"
-navbar-text-col: "#1954a6"
-navbar-border-col: "#DDDDDD"
+navbar-col: "	#040c24"
+navbar-text-col: "#0a205a"
+navbar-border-col: "#9da5bd"
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#1954a6"
-footer-col: "#000000"
-footer-text-col: "#1954a6"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+text-col: "#040c24"
+link-col: "#0a205a"
+hover-col: "#3a4c7a"
+footer-col: "	#040c24"
+footer-text-col: "#0a205a"
+footer-link-col: "#3a4c7a"
+footer-hover-col: "#9da5bd"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
