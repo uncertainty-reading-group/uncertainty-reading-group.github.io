@@ -1,0 +1,9 @@
+---
+layout: post
+title: Posterior Network
+subtitle: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts - NeurIPS 2020
+gh-repo: sharpenb/Posterior-Network
+gh-badge: [star, fork, follow]
+tags: [Uncertainty Estimation]
+comments: false
+---
