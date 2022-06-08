@@ -28,4 +28,4 @@ All these algorithms have been tested on both synthetic and real datasets to ill
 
 **Links**
 
-[Paper](http://www.diva-portal.org/smash/get/diva2:1292782/FULLTEXT01.pdf) [Github](https://github.com/Charpenb/Graph_Clustering)
+[Paper](http://www.diva-portal.org/smash/get/diva2:1292782/FULLTEXT01.pdf) | [Github](https://github.com/Charpenb/Graph_Clustering)
