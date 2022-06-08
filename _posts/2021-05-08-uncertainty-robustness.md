@@ -13,7 +13,7 @@ comments: false
 
 This page is about our paper
 
-[**Evaluating Robustness of Predictive Uncertainty Estimation: Are Dirichlet-based Models Reliable? **](https://arxiv.org/pdf/2010.14986.pdf)
+[**Evaluating Robustness of Predictive Uncertainty Estimation: Are Dirichlet-based Models Reliable?**](https://arxiv.org/pdf/2010.14986.pdf)
 
 Anna-Kathrin Kopetzki*, Bertrand Charpentier*, Daniel Zügner, Sandhya Giri and Stephan Günnemann  
 Published at the International Conference on Machine Learning (ICML) 2021
