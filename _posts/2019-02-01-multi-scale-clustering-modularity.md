@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/multi-scale-clustering-graphs.png
 share-img: /assets/img/path.jpg
 gh-repo: sharpenb/Multi-Scale-Modularity-Graph-Clustering
 gh-badge: [star, fork, follow]
-tags: [Hierarchical Inference]
+tags: [Hierarchical Inference, Graph Data]
 comments: false
 ---
 
