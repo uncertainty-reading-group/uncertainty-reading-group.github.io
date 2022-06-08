@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/asynchronous-uncertainty-2.png
 share-img: /assets/img/path.jpg
 gh-repo: sharpenb/Uncertainty-Event-Prediction
 gh-badge: [star, fork, follow]
-tags: [Uncertainty Estimation, Sequential]
+tags: [Uncertainty Estimation, Sequential Data]
 comments: false
 ---
 
