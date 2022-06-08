@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/graph-postnet.png
 share-img: /assets/img/path.jpg
 gh-repo: stadlmax/Graph-Posterior-Network
 gh-badge: [star, fork, follow]
-tags: [Uncertainty Estimation, Graphs]
+tags: [Uncertainty Estimation, Graph Data]
 comments: false
 ---
 
