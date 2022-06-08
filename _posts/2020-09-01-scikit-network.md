@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/scikit-network.png
 share-img: /assets/img/path.jpg
 gh-repo: sknetwork-team/scikit-network
 gh-badge: [star, fork, follow]
-tags: [Graph, Package]
+tags: [Package, Graph Data]
 comments: false
 ---
 
