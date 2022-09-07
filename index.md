@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Unceratinty in Artificial Intelligence (UAI)
+title: Uncertainty in AI
 subtitle: Reading Group
 ---
 
@@ -9,7 +9,7 @@ The UAI reading group is a great opportunity for researchers and students who ar
 - Bayesian Neural Networks, 
 - Ensembles
 - Deterministic uncertainty quantification
-- Cconformal predictions
+- Conformal predictions
 - Out-Of-Distribution detection
 - Out-Of-Distribution generalization, 
 - Calibration
