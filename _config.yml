@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Bertrand Charpentier
+title: UAI
 
 # Your name to show in the footer
 author: Bertrand Charpentier
@@ -20,19 +20,8 @@ author: Bertrand Charpentier
 ###############################################
 
 navbar-links:
-  Research: 
-    - Papers: "papers"
+  Talks: 
     - Talks: "talks"
-  Experiences:
-    - CV: "/assets/pdf/CVE_Bertrand_Research.pdf"
-    - Twitter: "https://cortex.twitter.com/"
-    - Stanford: "https://web.stanford.edu/group/sisl/cgi-bin/wordpress/"
-    - TUM: "https://www.in.tum.de/en/daml/home/"
-    - Télécom ParisTech: "https://www.telecom-paris.fr/en/home"
-    - KTH: "https://www.kth.se/en"
-    - Morgan Stanley: "https://www.morganstanley.com/"
-    - Ensimag: "https://ensimag.grenoble-inp.fr/en"
-  Blog: "https://medium.com/@bertrand-charpentier"
   # Author's home: "https://deanattali.com"
 
 ################
@@ -41,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/Bertrand_Charpentier_cropped.jpg"
+# avatar: "/assets/img/Bertrand_Charpentier_cropped.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -58,16 +47,16 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "bertrand.henri.charpentier@gmail.com"
+#  email: "bertrand.henri.charpentier@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: sharpenb
-  twitter: Bertrand_Charp
+#  github: sharpenb
+#  twitter: Bertrand_Charp
 #  patreon: DeanAttali
 #  youtube: c/daattali
-  medium: bertrand-charpentier
+#  medium: bertrand-charpentier
 #  reddit: yourname
-  linkedin: bertrand-charpentier-76995ab6
+#  linkedin: bertrand-charpentier-76995ab6
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -81,7 +70,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: citations?user=0rqI-ycAAAAJ&hl
+#  google-scholar: citations?user=0rqI-ycAAAAJ&hl
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
