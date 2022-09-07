@@ -1,11 +1,29 @@
 ---
 layout: home
-title: Bertrand Charpentier
-subtitle: Ph.D. student in Machine Learning
+title: Unceratinty in Artificial Intelligence (UAI)
+subtitle: Reading Group
 ---
 
-I pursue my Ph.D. in the [Data Analytics and Machine Learning (DAML)](https://www.in.tum.de/daml/startseite/) group at the Technical University of Munich (TUM), where I am supervised by [Stephan Günnemann](https://www.in.tum.de/daml/team/guennemann/).
+The UAI reading group is a great opportunity for researchers and students who are eager to learn and present your recent works about uncertainty estimation in AI. Concepts related to uncertainty estimation in AI are:
 
-My research focuses on **efficient** machine learning methods for **uncertainty estimation** for different **input** (e.g. tabular, images, graphs, sequential data) and **output types** (e.g. categories, real values, positive counts). In particular, I am interested in defining *desiderata*, *models* and *evaluation* methods for practical uncertainty estimation in real-world applications. Other research interests include *hierarchical and causal inference*, *robust machine learning* and *efficient machine learning*.
+- Bayesian Neural Networks, 
+- Ensembles
+- Deterministic uncertainty quantification
+- Cconformal predictions
+- Out-Of-Distribution detection
+- Out-Of-Distribution generalization, 
+- Calibration
+- Correct/wrong prediction detections
+- Benchmarks
+- Continual learning
+- Active learning
+- Reinforcment learning
+- Epistemic & aleatoric uncertainty.
 
-If you are interested in discussing with me, contact me per [email](bertrand.henri.charpentier@gmail.com) or on [twitter](https://twitter.com/Bertrand_Charp) :smile:.
+**How to attend the UAI reading group?**
+- Time: every on XXX at XXX.
+- Location: on-line via zoom room
+
+**How to present at the UAI reading group?** You can contact us
+- Contact details: send an email to XXX.
+- Presentation format: 30-45min with interactive questions
