@@ -8,10 +8,10 @@ The UAI reading group is a great opportunity for researchers and students who ar
 
 ![Keywords](https://github.com/sharpenb/Uncertainty-AI-Reading-Group/blob/master/assets/img/keywords-cropped.png){: .mx-auto.d-block :}
 
-**How to attend the UAI reading group?**
+**How to attend UAI reading group?**
 - Time: every on XXX at XXX.
 - Location: on-line via zoom room
 
-**How to present at the UAI reading group?** You can contact us
+**How to present at UAI reading group?**
 - Contact details: send an email to XXX.
 - Presentation format: 30-45min with interactive questions.
