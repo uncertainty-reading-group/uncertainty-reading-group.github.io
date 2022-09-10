@@ -6,7 +6,7 @@ subtitle: Reading Group
 
 The UAI reading group is a great opportunity for researchers and students who are eager to learn and present your recent works about uncertainty estimation in AI. Concepts related to uncertainty estimation in AI are:
 
-![Keywords](https://github.com/sharpenb/Uncertainty-AI-Reading-Group/blob/master/assets/img/keywords-cropped.png){: .mx-auto.d-block :}
+![Keywords](/assets/img/keywords-cropped.png){: .mx-auto.d-block :}
 
 **How to attend UAI reading group?**
 - Time: every on XXX at XXX.
