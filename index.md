@@ -6,19 +6,7 @@ subtitle: Reading Group
 
 The UAI reading group is a great opportunity for researchers and students who are eager to learn and present your recent works about uncertainty estimation in AI. Concepts related to uncertainty estimation in AI are:
 
-- Bayesian Neural Networks
-- Ensembles
-- Deterministic uncertainty quantification
-- Conformal predictions
-- Out-Of-Distribution detection
-- Out-Of-Distribution generalization
-- Calibration
-- Correct/wrong prediction detections
-- Benchmarks
-- Continual learning
-- Active learning
-- Reinforcment learning
-- Epistemic & aleatoric uncertainty
+![Keywords](https://github.com/sharpenb/Uncertainty-AI-Reading-Group/blob/master/assets/img/keywords-cropped.png){: .mx-auto.d-block :}
 
 **How to attend the UAI reading group?**
 - Time: every on XXX at XXX.
