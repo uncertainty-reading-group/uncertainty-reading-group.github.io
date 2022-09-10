@@ -4,7 +4,7 @@ title: Uncertainty in AI
 subtitle: Reading Group
 ---
 
-The UAI reading group is a great opportunity for researchers and students who are eager to learn and present your recent works about uncertainty estimation in AI. Concepts related to uncertainty estimation in AI are:
+The UAI reading group is a great opportunity for researchers and students who are eager to learn and present recent works about uncertainty estimation in AI.
 
 ![Keywords](/assets/img/keywords-cropped.png){: .mx-auto.d-block :}
 
