@@ -9,9 +9,9 @@ The UAI reading group is a great opportunity for researchers and students who ar
 ![Keywords](/assets/img/keywords-cropped.png){: .mx-auto.d-block :}
 
 **How to attend UAI reading group?**
-- Time: every on XXX at XXX.
-- Location: on-line via zoom room
+- Time: we meet on Mondays between 5:30pm and 6:30pm. You ca find the exact schedule below.
+- Location: we meet on-line via [this zoom room](https://ethz.zoom.us/j/65475155742).
 
 **How to present at UAI reading group?**
-- Contact details: send an email to XXX.
-- Presentation format: 30-45min with interactive questions.
+- Contact details: send an email to jpostels@ethz.ch and bcharpentier@tum.de.
+- Presentation format: 30-60min with interactive questions.
