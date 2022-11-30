@@ -11,6 +11,7 @@ The UAI reading group is a great opportunity for researchers and students who ar
 **How to attend UAI reading group?**
 - Time: we meet on Mondays between 5:30pm and 6:30pm. You ca find the exact schedule below.
 - Location: we meet on-line via [this zoom room](https://ethz.zoom.us/j/65475155742).
+- Youtube channel: we publish the recordings of talks on the [UAI Youtube channel](https://www.youtube.com/@uncertaintyreadinggroup1606). Feel free to check it out!
 
 **How to present at UAI reading group?**
 - Contact details: send an email to jpostels@ethz.ch and bcharpentier@tum.de.
